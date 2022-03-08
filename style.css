@@ -5,7 +5,7 @@
 
 /* hero background image */
 .bgimage {
-    height:100%;
+    height:100vh;
     background: url('https://drive.google.com/thumbnail?id=1ANsE1M-1Z_7i0kLWaDftGX17TpOmzJWA');
     background-size:cover;
     position:relative;
